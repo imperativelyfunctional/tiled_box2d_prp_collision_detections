@@ -11,4 +11,4 @@
 視頻地址：https://youtu.be/C4nXkE8NWWQ <br>
 頻道地址：https://www.youtube.com/channel/UCI_nzNMP4JEyJiITpJeIxYg
 
-![遊戲截屏](https://github.com/imperativelyfunctional/dynamic_background_login/blob/main/Simulator%20Screen%20Recording%20-%20iPhone%2013%20Pro%20Max%20-%202022-04-26%20at%2021.01.46.gif)
+![遊戲截屏](https://github.com/imperativelyfunctional/tiled_box2d_prp_collision_detections/blob/main/demo.gif)
