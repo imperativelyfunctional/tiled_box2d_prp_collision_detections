@@ -1,16 +1,14 @@
-# box2d_collision_rpg_style
+# 本期是flutter教學系列的第二十期
 
-A new Flutter project.
+# 教學內容包括：
+- forge2D 
+- collision detections
+- Dynamic Body
+- Static Body
+- tiled
+- tiled object layer management
+# 教學預期：學員可以動過通過Forge2D來做到精準的物理碰撞處理
+視頻地址：https://youtu.be/C4nXkE8NWWQ <br>
+頻道地址：https://www.youtube.com/channel/UCI_nzNMP4JEyJiITpJeIxYg
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![遊戲截屏](https://github.com/imperativelyfunctional/dynamic_background_login/blob/main/Simulator%20Screen%20Recording%20-%20iPhone%2013%20Pro%20Max%20-%202022-04-26%20at%2021.01.46.gif)
